@@ -247,3 +247,43 @@ nav {
 #ready-to-think .content-container .button-and-text p {
 	padding-bottom: 80px;
 }
+
+/*footer*/
+
+footer {
+	background-color: #001931;
+}
+
+.footer-container {
+	padding-top: 120px;
+}
+
+.footer-content {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-bottom: 110px;
+}
+.footer-content .social p {
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 28px;
+	padding-bottom: 16px;
+}
+
+.footer-content .social .x,
+.linked-in {
+	padding-right: 16px;
+}
+
+.footer-container .copyright {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.footer-container .copyright p {
+	color: #ffffff;
+	font-size: 14px;
+	line-height: 24px;
+}
