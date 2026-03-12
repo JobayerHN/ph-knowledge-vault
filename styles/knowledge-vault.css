@@ -86,7 +86,7 @@ nav {
 }
 
 #header-banner {
-	background: url("../assets/hero-bg.png") no-repeat center;
+	background: url("../assets/hero-bg.png") no-repeat center / cover;
 	padding: 115px 0 179px 0;
 }
 
@@ -292,5 +292,6 @@ footer {
 	font-size: 14px;
 	line-height: 24px;
 }
+
 
 
